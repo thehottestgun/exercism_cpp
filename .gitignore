@@ -33,3 +33,4 @@
 reverse_string/.vscode/launch.json
 reverse_string/.vscode/settings.json
 reverse_string/.vscode/tasks.json
+*.json
